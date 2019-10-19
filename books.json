@@ -1,0 +1,7 @@
+{
+ "data": [{"title": "러닝자바스크립트", "color": "green"},
+{"title": "클린코드", "color": "orange"},
+{"title": "리액트인액션", "color": "blue"},
+{"title": "노드교과서", "color": "darkgreen"},
+{"title": "클린아키텍쳐", "color": "pink"}]
+}
