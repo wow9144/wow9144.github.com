@@ -1,7 +1,7 @@
 {
- "data": [{title: "리빙", color: "green"},
-{title: "푸드", color: "orange"},
-{title: "스포츠", color: "blue"},
-{title: "자동차", color: "darkgreen"},
-{title: "패션뷰티", color: "pink"}]
+ "data": [{"title": "리빙", "color": "green"},
+{"title": "푸드", "color": "orange"},
+{"title": "스포츠", "color": "blue"},
+{"title": "자동차", "color": "darkgreen"},
+{"title": "패션뷰티", "color": "pink"}]
 }
